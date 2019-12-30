@@ -2,6 +2,7 @@
 
 A React Native mobile application that displays informational fatherhood 'bro-tips'. Upon entering the app there is a welcome, a login, and a main home screen. Users can enter their expected baby's DOB, and based on the phase of the pregnancy, the application will display useful information. Created with React-Native, this application is compatible with both iOS and Android.
 
+![Appa](https://raw.githubusercontent.com/RijinLee/appa/master/assets/images/appa.png)
 The main menu has some useful insights in the form of a swiper and based on the phase of pregnancy, this information will change. There is a section for weekly tips, which will change week-by-week.
 
 ## Tech Stack
